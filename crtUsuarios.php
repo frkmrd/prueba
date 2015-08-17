@@ -2,6 +2,7 @@
 session_start();
 require_once('modelo\clsUsuarios.php');
 require_once('vista\vstUsuarios.php');
+require_once('modelo\prueba.php');
 require_once('template.php');
 
 function helper()
