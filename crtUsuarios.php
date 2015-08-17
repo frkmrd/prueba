@@ -21,6 +21,9 @@ function helper()
 		case 3:
 			$template->cabecera_estudiante();
 		break;
+		case 4:
+			$templete->cabecera_nose();
+		break;
 	}
 
 
